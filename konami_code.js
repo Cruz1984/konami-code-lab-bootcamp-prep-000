@@ -21,5 +21,4 @@ function onKeyHandler(e) {const key = e.key;
 if (key === alphabet[index]) {index++;
 if (index === alphabet.length) {alert("hurray!");
 index = 0;}
-} else } index = 0;}
-
+} 'else' } index = 0;}
